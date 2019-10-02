@@ -1,0 +1,24 @@
+{
+  "name": "fints-cheat-sheets",
+  "version": "1.0.0",
+  "description": "FinTS code and segment translations - german",
+  "main": "codes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparship/fints-cheat-sheets.git"
+  },
+  "keywords": [
+    "fints",
+    "hbci",
+    "finance"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparship/fints-cheat-sheets/issues"
+  },
+  "homepage": "https://github.com/sparship/fints-cheat-sheets#readme"
+}
