@@ -1,4 +1,4 @@
-let segments = {
+const segments = {
     HKIPS: {
         gvName: "SEPA Instant Payment Statusabfrage",
         v4: "noch offen"
